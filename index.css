@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  background-color: #131111;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  gap: 18px;
+  margin: 0;
+  padding: 0;
+  margin-right: 7%;
+}
+
+.navbar li {
+  color: white;
+  cursor: pointer;
+}
+
+.A {
+  width: 100%;
+}
+.B {
+  margin-top: 40px;
+  width: 80%;
+}
+.C {
+  display: flex;
+  padding: 20px;
+  justify-content: space-around;
+}
+
+.D {
+  padding: 30px;
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+img{
+    cursor: pointer;
+}
+
+
